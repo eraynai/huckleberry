@@ -10,3 +10,29 @@ body {
 }
 
 /* Add styles here! */
+
+.max-width-wrapper {
+  
+  
+}
+
+.intro-chunk, .card{
+  padding: 2rem 0;
+  width: 500px;
+}
+
+
+
+.card {
+  background-color: #fff;
+  padding: 20px 35px;
+}
+
+.max-width-wrapper.grey {
+  background-color: grey;
+}
+
+main {
+  background: gray;
+  padding: 2rem;
+}
